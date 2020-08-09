@@ -1,7 +1,4 @@
 # jianshu_image_uploader
 
-```
-#运行
-./jianshu_image_uploader -cookie="" -url=图片地址（http开头，或者本地文件）
-```
-
+- 使用方法看expmale目录
+- 未做自动登录，直接把登录之后的coookie传入即可
